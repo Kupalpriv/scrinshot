@@ -117,7 +117,7 @@ function App() {
           <div className="header-content">
             <div className="logo">
               <Camera className="logo-icon" />
-              <span className="logo-text">ScreenCapture Pro</span>
+              <span className="logo-text">Scrinshot sir!</span>
             </div>
             <nav className="nav">
               <a href="#features" className="nav-link">Features</a>
@@ -134,7 +134,7 @@ function App() {
             <div className="hero-content">
               <div className="hero-text">
                 <h1 className="hero-title">
-                  Professional Website
+                  this is a scrinshot site 
                   <span className="gradient-text"> Screenshots</span>
                 </h1>
                 <p className="hero-description">
