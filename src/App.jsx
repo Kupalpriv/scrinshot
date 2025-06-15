@@ -117,7 +117,7 @@ function App() {
           <div className="header-content">
             <div className="logo">
               <Camera className="logo-icon" />
-              <span className="logo-text">Scrinshot sir!</span>
+              <span className="logo-text">ScreenCapture Pro</span>
             </div>
             <nav className="nav">
               <a href="#features" className="nav-link">Features</a>
@@ -134,13 +134,12 @@ function App() {
             <div className="hero-content">
               <div className="hero-text">
                 <h1 className="hero-title">
-                  this is a scrinshot site 
-                  <span className="gradient-text"> Screenshots</span>
+                  Professional Website
+                  <span className="gradient-text"> no wiy</span>
                 </h1>
                 <p className="hero-description">
-                  Capture stunning, high-quality screenshots of any website with our advanced screenshot API. 
-                  Perfect for developers, designers, and marketers who need reliable website captures.
-                </p>
+                  Pagkuha og nindot, taas nga kalidad nga mga screenshot sa bisan unsang website gamit ang among advanced screenshot API. Pagkuha og nindot, taas nga kalidad nga mga screenshot sa bisan unsang website gamit ang among advanced screenshot API. 
+                    </p>
                 <div className="hero-stats">
                   <div className="stat">
                     <Star className="stat-icon" />
@@ -162,7 +161,7 @@ function App() {
               
               <div className="screenshot-tool">
                 <div className="tool-header">
-                  <h2 className="tool-title">Try it now!</h2>
+                  <h2 className="tool-title">Try muna sir!</h2>
                   <p className="tool-subtitle">Enter any URL to capture a screenshot</p>
                 </div>
                 
