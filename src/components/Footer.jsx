@@ -167,7 +167,7 @@ const Footer = () => {
               <h2 className="developer-name">
                 Churchill <span className="name-accent">Dev</span>
               </h2>
-              <p className="developer-title">Full Stack Developer & Software Architect</p>
+              <p className="developer-title">nega ownirsv2 mimbir</p>
               <div className="developer-location">
                 <MapPin className="location-icon" />
                 <span>Philippines</span>
@@ -243,15 +243,15 @@ const Footer = () => {
             <div className="contact-info">
               <div className="contact-item">
                 <Mail className="contact-icon" />
-                <span>churchill.dev@example.com</span>
+                <span>churchillabing100@gmailcom</span>
               </div>
               <div className="contact-item">
                 <Phone className="contact-icon" />
-                <span>+63 123 456 7890</span>
+                <span>+63 secret</span>
               </div>
               <div className="contact-item">
                 <Globe className="contact-icon" />
-                <span>churchilldev.com</span>
+                <span>tyortyil abinega</span>
               </div>
             </div>
           </div>
