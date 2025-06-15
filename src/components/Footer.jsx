@@ -165,7 +165,7 @@ const Footer = () => {
             
             <div className="developer-info">
               <h2 className="developer-name">
-                Churchill <span className="name-accent">Dev</span>
+                tyortyil <span className="name-accent">abinega</span>
               </h2>
               <p className="developer-title">Full Stack Nega</p>
               <div className="developer-location">
@@ -226,10 +226,10 @@ const Footer = () => {
           <div className="footer-section about-section">
             <h3 className="section-title">
               <Lightbulb className="title-icon" />
-              About Churchill
+              About nega
             </h3>
             <p className="about-text">
-              Passionate full-stack developer with expertise in modern web technologies. 
+              Passionate full-stack nega with expertise in modern web technologies. 
               I specialize in creating scalable, user-friendly applications that solve real-world problems. 
               With a strong foundation in both frontend and backend development, I bring ideas to life through clean, efficient code.
             </p>
@@ -243,15 +243,15 @@ const Footer = () => {
             <div className="contact-info">
               <div className="contact-item">
                 <Mail className="contact-icon" />
-                <span>churchill.dev@example.com</span>
+                <span>churchilabing100@gmail.com</span>
               </div>
               <div className="contact-item">
                 <Phone className="contact-icon" />
-                <span>+63 123 456 7890</span>
+                <span>+63 secret</span>
               </div>
               <div className="contact-item">
                 <Globe className="contact-icon" />
-                <span>churchilldev.com</span>
+                <span>abinega</span>
               </div>
             </div>
           </div>
